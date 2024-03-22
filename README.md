@@ -12,3 +12,5 @@
 ## Hobbies
 - Dancing: ...
 
+## Lenguajes 
+JAVA CSS JS
